@@ -44,7 +44,7 @@ export function Header({ onOpenSidebar }: { onOpenSidebar?: () => void }) {
       {/* logo */}
       <Link href="/dashboard" className="flex items-center gap-2 pr-2">
         <Logo />
-        <span className="hidden text-base font-semibold tracking-tight sm:inline"><BINANCE></BINANCE></span>
+        <span className="hidden text-base font-semibold tracking-tight sm:inline">BINANCE</span>
       </Link>
 
       {/* primary nav */}
