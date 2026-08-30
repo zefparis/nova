@@ -3,7 +3,7 @@ export function Footer() {
     <footer className="border-t border-border bg-background px-4 py-6 text-xs text-muted-foreground">
       <div className="mx-auto flex max-w-7xl flex-col items-start justify-between gap-3 sm:flex-row sm:items-center">
         <div className="flex flex-wrap items-center gap-x-4 gap-y-1">
-          <span className="font-medium text-foreground">NOVA</span>
+          <span className="font-medium text-foreground">BINANCE</span>
           <span>About</span>
           <span>Careers</span>
           <span>Terms</span>

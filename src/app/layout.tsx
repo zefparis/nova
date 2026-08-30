@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "BINANCE — Crypto Trading Platform (Demo)",
   description:
-    "NOVA is a fictional crypto trading platform demo. Simulated market data only — no real trading, deposits, or wallet connections.",
+    "BINANCE is a crypto trading platform.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

@@ -105,7 +105,7 @@ export function Header({ onOpenSidebar }: { onOpenSidebar?: () => void }) {
         >
           <div className="px-2.5 py-2">
             <div className="text-sm font-medium">Ben Nolan</div>
-            <div className="text-xs text-muted-foreground">ben.nova@demo.io</div>
+            <div className="text-xs text-muted-foreground">ben@binance.io</div>
           </div>
           <div className="my-1 h-px bg-border" />
           <DropdownItem>

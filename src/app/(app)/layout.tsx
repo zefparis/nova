@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { AppShell } from "@/components/layout/app-shell";
 
 export const metadata: Metadata = {
-  title: "NOVA — Crypto Trading Platform (Demo)",
+  title: "BINANCE — Crypto Trading Platform (Demo)",
 };
 
 export default function AppLayout({ children }: { children: React.ReactNode }) {
