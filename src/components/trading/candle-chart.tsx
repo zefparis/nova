@@ -73,7 +73,7 @@ export function CandleChart({ candles, height = 420, className }: CandleChartPro
     <div ref={wrapRef} className={cn("relative w-full", className)}>
       {/* OHLC legend */}
       <div className="pointer-events-none absolute left-2 top-1 z-10 flex flex-wrap items-center gap-x-3 gap-y-0.5 text-[11px] text-muted-foreground">
-        <span className="font-medium text-foreground">NOVA · {tf}</span>
+        <span className="font-medium text-foreground">BINANCE · {tf}</span>
         {hoverCandle ? (
           <>
             <span>O <span className={hoverCandle.close >= hoverCandle.open ? "text-success" : "text-danger"}>{hoverCandle.open}</span></span>
