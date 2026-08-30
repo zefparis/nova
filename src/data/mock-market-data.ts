@@ -209,7 +209,7 @@ export function usdValue(a: WalletAsset): number {
 }
 
 export const portfolio = {
-  totalBalance: 128450.32,
+  totalBalance: 9128450.32,
   spotBalance: 98240.18,
   fundingBalance: 18620.5,
   earnBalance: 9120.64,
